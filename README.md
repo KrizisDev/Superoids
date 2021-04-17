@@ -1,2 +1,2 @@
 # Superoids
- Source code for Superoids.
+ Source code for my second game, Superoids.
